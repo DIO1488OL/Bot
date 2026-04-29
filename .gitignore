@@ -1,0 +1,4 @@
+*.csv
+*.rar
+config.py
+__pycache__/
